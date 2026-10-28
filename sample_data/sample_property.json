@@ -1,0 +1,23 @@
+{
+  "name": "Green Valley Residency",
+  "location": "Chandigarh",
+  "price": "₹85 lakh",
+  "property_type": "2-BHK apartment",
+  "bedrooms": 2,
+  "description": "Spacious 2-BHK apartment in the heart of Chandigarh with premium finishes, peaceful surroundings, and world-class connectivity.",
+  "features": [
+    "Two bedrooms",
+    "Modular kitchen",
+    "Balcony",
+    "Parking"
+  ],
+  "call_to_action": "Contact us today to arrange a visit.",
+  "images": [
+    "assets/sample_images/01_exterior.jpg",
+    "assets/sample_images/02_living_room.jpg",
+    "assets/sample_images/03_modular_kitchen.jpg",
+    "assets/sample_images/04_bedroom.jpg",
+    "assets/sample_images/05_balcony_view.jpg"
+  ]
+}
+

@@ -1,0 +1,17 @@
+# Core Application Dependencies
+streamlit>=1.35.0
+pillow>=10.0.0
+moviepy>=2.0.0
+imageio>=2.30.0
+imageio-ffmpeg>=0.5.1
+numpy>=1.24.0
+gTTS>=2.5.0
+opencv-python
+
+# Automated Testing
+pytest>=8.0.0
+
+# Optional LLM Script Generation
+# google-generativeai>=0.7.0
+# openai>=1.30.0
+
